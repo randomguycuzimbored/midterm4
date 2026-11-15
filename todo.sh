@@ -1,1 +1,1 @@
-grep -u "todo:" tasks.txt | sort | cut -d ":" -f 2-3
+grep -u "todo:" tasks.txt | sort | cut -d ":" -f 2-
